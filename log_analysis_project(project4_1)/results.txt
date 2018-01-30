@@ -1,0 +1,26 @@
+### This how the output from the code should look like.
+
+What are the most popular three articles of all time?
+
+
+* "Candidate is jerk, alleges rival" __ 338647 Views.
+
+* "Bears love berries, alleges bear" __ 253801 Views.
+
+* "Bad things gone, say good people" __ 170098 Views.
+
+Who are the most popular article authors of all time ??
+
+
+* Ursula La Multa __ 507594 Views.
+
+* Rudolf von Treppenwitz __ 423457 Views.
+
+* Anonymous Contributor __ 170098 Views.
+
+* Markoff Chaney __ 84557 Views.
+
+Which day got more than 1% errors of all requests ??
+
+
+2016-07-17 __ 2.26% errors
