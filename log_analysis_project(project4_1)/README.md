@@ -4,7 +4,7 @@ This code is a log analysis tool, Analyze data collected from a website logs and
 
 ## How to Run The Code:
 
-** Python 2.7 or 3 and Oracle VM virtualBox ** should be installed on your computer. First the database should be setup and populated with data.
+**Python 2.7 or 3 and Oracle VM virtualBox** should be installed on your computer. First the database should be setup and populated with data.
  Download the file newsdata.sql and put it into the vagrant directory, which is shared with your virtual machine. To load the data Cd into the vagrant directory and run the command: 
                     
                   psql -d news -f newsdata.sql 
